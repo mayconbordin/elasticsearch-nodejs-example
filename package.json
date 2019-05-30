@@ -1,0 +1,16 @@
+{
+  "name": "elasticsearch-nodejs-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "elasticsearch": "16.0.0",
+    "uuid": "3.3.2",
+    "winston": "2.4.1",
+    "winston-logstash": "0.4.0"
+  }
+}
